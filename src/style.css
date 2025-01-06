@@ -1,0 +1,14 @@
+#nav{
+        border: 1px solid black;
+        color: white;
+        background-color: blue; 
+        font-size: 20px;
+   a{
+        color: white;
+        text-decoration: none;
+        padding: 10px;
+
+
+    }
+}
+
