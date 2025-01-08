@@ -5,7 +5,7 @@ import CounterApp from "./pages/CounterApp";
 import Contact from "./pages/contact";
 import ThemeChange from "./pages/ThemeChange";
 import TodoList from "./pages/TodoList";
-const App=()=>{
+const App=()=>{ 
     return(
         <>
         <BrowserRouter>
